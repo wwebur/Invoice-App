@@ -62,8 +62,3 @@ OMG... Crasiest project i have ever built! Extremely difficult, a lot of math, c
 ### Continued development
 
 First time using framer motion, it's really simple and funny to use, but i think that i will use this tool rarely, specially because i can do the same thing with typescript + styled-components. Second time using react-hook-forms, i tried it some time ago in a very small form with very little validation and stuff, but after using it in a bigger project like this, i just feel in love with this tool XD. First time using Dayjs, i always used date-fns, but i saw that dayjs had a smaller package and it seemed to be easier... i wasn't wrong tho!
-
-## Author
-
-- Website - SOON!
-- Frontend Mentor - [@Galielo-Appe](https://www.frontendmentor.io/profile/Galielo-App)
